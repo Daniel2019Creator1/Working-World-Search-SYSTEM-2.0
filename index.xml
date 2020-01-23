@@ -1,0 +1,40 @@
+<!DOCTYPE xml>
+<xml>
+<body>
+<CustomSearchEngine id="miqeqjlvujs" creator="008434891784900344876" keywords="Things And Stuff." language="en" top_refinements="2147483647" encoding="UTF-8" enable_promotions="false" autocompletions="true">
+<Title>Working-World/Anything-Custom-Search-Engine (SYSTEM)</Title>
+<description></description>
+<Context>
+<BackgroundLabels>
+<Label name="_cse_miqeqjlvujs" mode="BOOST"/>
+<Label name="_cse_exclude_miqeqjlvujs" mode="ELIMINATE"/>
+</BackgroundLabels>
+</Context>
+<LookAndFeel element_layout="1" theme="7" custom_theme="true" url_length="full" element_branding="hide" enable_cse_thumbnail="true" promotion_url_length="full" font="5">
+<Logo/>
+<Colors url="#00FFFF" title="#FF9900" visited="#FF9900" title_hover="#FF9900" title_acti""ve="#FF9900"/>
+<Promotions title_color="#FF9900" title_visited_color="#FF9900" url_color="#00FFFF" title_hover_color="#FF9900" title_active_color="#FF9900"/>
+<SearchControls button_border_color="#FF9900" button_background_color="#FF9900" tab_selected_border_color="#FF9900"/>
+<Results/>
+</LookAndFeel>
+<ImageSearchSettings enable="true" layout="2"/>
+<autocomplete_settings/>
+<sort_by_keys label="Relevance" key=""/>
+<sort_by_keys label="Date" key="date"/>
+<cse_advance_settings enable_facet_search="true">
+<web_search_options enable_history="true" show_structured_data="true">
+<search_restrict_args filter="0"/>
+</web_search_options>
+<image_advanced_options>
+<search_restrict_args filter="0"/>
+</image_advanced_options>
+</cse_advance_settings>
+</CustomSearchEngine>
+<Annotations start="0" num="1" total="1">
+<Annotation about="www.custom.search.mysite.com/*" score="1" timestamp="0x00059caad307911a" href="Ch53d3cuY3VzdG9tLnNlYXJjaC5teXNpdGUuY29tLyoQmqKemK2V5wI=">
+<Label name="_cse_miqeqjlvujs"/>
+<AdditionalData attribute="original_url" value="www.custom.search.mysite.com/"/>
+</Annotation>
+</Annotations>
+</body>
+</xml>
